@@ -1,4 +1,4 @@
-// Source: lab05a/Source.cpp
+// Source: lab05a/lab05a.cpp
 // Author: Corey Gray
 // Date: 20160912
 // Purpose: Asks the user for input and exits if the line is longer than 10 characters

@@ -1,4 +1,4 @@
-// Source: lab04b/Source.cpp
+// Source: lab04b/04b.cpp
 // Author: Corey Gray
 // Date: 20160909
 // Purpose: Asks the user for a special character and two integers then prints a box.

@@ -1,4 +1,4 @@
-// labo6a/Source.cpp
+// lab07/lab07.cpp
 // Corey Gray
 // 16 Sep 2016
 //
